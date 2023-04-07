@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name        No exchange + caution private - wohnungsboerse,immoscout24
-// @namespace   https://github.com/fa7ad
-// @match       https://www.wohnungsboerse.net/*/*
-// @match       https://www.immobilienscout24.de/Suche/*
-// @grant       none
-// @version     1.0.0
-// @homepageURL    https://github.com/fa7ad
-// @updateURL      https://raw.githubusercontent.com/fa7ad/userscripts/main/immomadness.user.js
-// @updateURL      https://raw.githubusercontent.com/fa7ad/userscripts/main/immomadness.user.js
-// @license     MIT
-// @author      Fahad Hossain <set.name.fahad AT gmail.com>
+// @name          No exchange + caution private - wohnungsboerse,immoscout24
+// @namespace     https://github.com/fa7ad
+// @match         https://www.wohnungsboerse.net/*/*
+// @match         https://www.immobilienscout24.de/Suche/*
+// @grant         none
+// @version       1.0.0-2
+// @homepageURL   https://github.com/fa7ad
+// @updateURL     https://raw.githubusercontent.com/fa7ad/userscripts/main/immomadness.user.js
+// @updateURL     https://raw.githubusercontent.com/fa7ad/userscripts/main/immomadness.user.js
+// @license       MIT
+// @author        Fahad Hossain <set.name.fahad AT gmail.com>
 // @description 4/5/2023, 12:12:22 PM
 // ==/UserScript==
 
